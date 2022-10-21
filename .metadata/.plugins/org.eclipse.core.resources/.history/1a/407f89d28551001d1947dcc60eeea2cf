@@ -1,0 +1,11 @@
+package tutIf;
+
+public class Application {
+	public static void main(String[] args) {
+		boolean cond = 44 == 8;
+		
+		System.out.println(cond);
+		
+	}
+
+}

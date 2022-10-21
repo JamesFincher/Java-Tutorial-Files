@@ -1,0 +1,13 @@
+package hello_world;
+
+public class application {
+
+	public static void main(String[] args) {
+		System.out.println("Hello world!");
+		int myNumber;
+		myNumber = 44;
+		System.out.println(myNumber);
+
+	}
+
+}

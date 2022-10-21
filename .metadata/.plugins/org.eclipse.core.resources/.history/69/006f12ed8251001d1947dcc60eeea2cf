@@ -1,0 +1,9 @@
+package tutLoops;
+
+public class loop {
+	public static void main(String[] args) {
+		boolean loop = 4 < 3;
+		
+		System.out.println(loop);
+	}
+}
